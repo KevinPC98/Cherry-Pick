@@ -1,3 +1,8 @@
-.article {
+article {
   border: 2cm;
+}
+
+p {
+  border-color: black;
+  background-color: aqua;
 }

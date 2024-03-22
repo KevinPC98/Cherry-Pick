@@ -1,1 +1,5 @@
-console.log("I'm back...");
+function greetings(name) {
+  console.log("Hello " + name);
+}
+
+greetings("Kman");
